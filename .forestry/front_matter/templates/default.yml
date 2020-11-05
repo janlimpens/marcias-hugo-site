@@ -21,3 +21,5 @@ fields:
   type: boolean
   label: Em manutenção
   default: true
+pages:
+- content/homepage.md
