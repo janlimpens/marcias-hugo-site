@@ -1,2 +1,35 @@
-languageCode = "en-us"
-title = "My New Netlify Victor Hugo Site"
+baseURL = "/"
+languageCode = "pt-br"
+title = "Sobre desenho"
+theme = "basedoff"
+enableInlineShortcodes = true
+
+[params]
+subtitle = "Marcia Cymbalista"
+customCss = []
+customJs = []
+defaultImageFit = "800x800"
+defaultThumbCrop = "150x150 smart"
+
+[permalinks]
+blog  = "/blog/:year/:month/:title/"
+[[menu.main]]
+weight = 1
+name = "Trabalhos Artísticos"
+url = "/trabalhos-artisticos/"
+[[menu.main]]
+weight = 2
+name = "Educação"
+url = "/educacao/"
+[[menu.main]]
+weight = 3
+name = "Currículo"
+url = "/curriculo/"
+[[menu.main]]
+weight = 4
+name = "Contato"
+url = "/contato/"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe=true

@@ -1,0 +1,4 @@
+[submodule "themes/basedoff"]
+	path = themes/basedoff
+	url = https://github.com/janlimpens/hugo-theme-basedoff.git
+	branch = master
