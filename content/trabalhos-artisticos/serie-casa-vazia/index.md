@@ -1,12 +1,13 @@
 ---
 id: 154416302
-title: 'Série &#8220;Casa Vazia&#8221;'
+title: "Série &#8220;Casa Vazia&#8221;"
 date: 2018-04-22T15:22:38-03:00
 author: admin
 layout: page
 guid: http://sobredesenho.limpens.com/trabalhos-artisticos/serie-casa-vazia/
 image: /wp-content/uploads/2013/04/Graphias-casa-Vazia-retrabalhada-020baixa.jpg
 ---
+
 <div id='gallery-23' class='gallery galleryid-154416302 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

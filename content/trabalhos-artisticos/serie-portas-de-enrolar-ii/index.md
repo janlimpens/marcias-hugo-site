@@ -7,6 +7,7 @@ layout: page
 guid: https://sobredesenho.limpens.com/trabalhos-artisticos/serie-portas-de-enrolar-ii/
 image: /wp-content/uploads/2019/05/Img0364baixa-1.jpg
 ---
+
 <div id='gallery-28' class='gallery galleryid-154416566 gallery-columns-3 gallery-size-medium'>
   <figure class='gallery-item'> 
   

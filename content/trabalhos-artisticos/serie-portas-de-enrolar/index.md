@@ -1,12 +1,13 @@
 ---
 id: 154416288
-title: 'Série &#8220;Portas de Enrolar&#8221;'
+title: "Série &#8220;Portas de Enrolar&#8221;"
 date: 2018-04-22T13:43:57-03:00
 author: admin
 layout: page
 guid: http://sobredesenho.limpens.com/trabalhos-artisticos/serie-portas-de-enrolar/
 image: /wp-content/uploads/2012/07/Vende-se.png.scaled1000.png
 ---
+
 <div id='gallery-21' class='gallery galleryid-154416288 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

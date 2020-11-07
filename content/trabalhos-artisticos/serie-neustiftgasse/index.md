@@ -1,12 +1,13 @@
 ---
 id: 154416286
-title: 'Série &#8220;Neustiftgasse&#8221;'
+title: "Série &#8220;Neustiftgasse&#8221;"
 date: 2018-04-22T13:43:00-03:00
 author: admin
 layout: page
 guid: http://sobredesenho.limpens.com/trabalhos-artisticos/serie-neustiftgasse/
 image: /wp-content/uploads/2013/04/008-pequena.jpg
 ---
+
 <div id='gallery-19' class='gallery galleryid-154416286 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

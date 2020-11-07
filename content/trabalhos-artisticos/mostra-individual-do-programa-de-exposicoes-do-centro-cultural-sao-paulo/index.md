@@ -7,6 +7,7 @@ layout: page
 guid: http://sobredesenho.limpens.com/trabalhos-artisticos/mostra-individual-do-programa-de-exposicoes-do-centro-cultural-sao-paulo/
 image: /wp-content/uploads/2013/04/individual-ccsp-1-retrabalhada-baixa.jpg
 ---
+
 <div id='gallery-17' class='gallery galleryid-154416284 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

@@ -1,12 +1,13 @@
 ---
 id: 154416277
-title: 'Série &#8220;Estações&#8221;'
+title: "Série &#8220;Estações&#8221;"
 date: 2018-04-22T13:36:23-03:00
 author: admin
 layout: page
 guid: http://sobredesenho.limpens.com/trabalhos-artisticos/serie-estacoes/
 image: /wp-content/uploads/2013/04/MG_9680.jpg
 ---
+
 <div id='gallery-16' class='gallery galleryid-154416277 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

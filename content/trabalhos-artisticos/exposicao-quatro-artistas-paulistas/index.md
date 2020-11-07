@@ -1,16 +1,16 @@
 ---
 id: 154416521
-title: 'Exposição &#8220;Quatro Artistas Paulistas&#8221;'
+title: "Exposição &#8220;Quatro Artistas Paulistas&#8221;"
 date: 2019-05-05T18:06:55-03:00
 author: Marcia Cymbalista
 layout: page
 guid: https://sobredesenho.limpens.com/?page_id=154416521
 image: /wp-content/uploads/2019/05/Exposição-IMS-Poços-retrabalhadaIMG_20190412_170724-1200x845.jpg
 ---
+
 <div id='gallery-27' class='gallery galleryid-154416521 gallery-columns-3 gallery-size-medium'>
   <figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
+    <div class='gallery-icon landscape'>
     <a href='https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/IMS-Poços-Portas-de-Enrolar-Coloridas-retrabalhadas.jpg?ssl=1'><img width="300" height="231" src="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/IMS-Poços-Portas-de-Enrolar-Coloridas-retrabalhadas.jpg?resize=300%2C231&#038;ssl=1" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-27-154416542" srcset="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/IMS-Poços-Portas-de-Enrolar-Coloridas-retrabalhadas.jpg?resize=300%2C231&ssl=1 300w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/IMS-Poços-Portas-de-Enrolar-Coloridas-retrabalhadas.jpg?resize=768%2C590&ssl=1 768w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/IMS-Poços-Portas-de-Enrolar-Coloridas-retrabalhadas.jpg?resize=1024%2C787&ssl=1 1024w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/IMS-Poços-Portas-de-Enrolar-Coloridas-retrabalhadas.jpg?resize=1200%2C922&ssl=1 1200w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/IMS-Poços-Portas-de-Enrolar-Coloridas-retrabalhadas.jpg?w=1680&ssl=1 1680w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/IMS-Poços-Portas-de-Enrolar-Coloridas-retrabalhadas.jpg?w=2520&ssl=1 2520w" sizes="(max-width: 300px) 85vw, 300px" data-recalc-dims="1" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-27-154416542'> &#8216;Portas de Enrolar&#8217;, pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019. </figcaption></figure><figure class='gallery-item'> 
   

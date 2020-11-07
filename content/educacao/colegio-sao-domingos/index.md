@@ -6,6 +6,7 @@ author: admin
 layout: page
 guid: http://sobredesenho.limpens.com/?page_id=154416237
 ---
+
 Primeiro semestre de 2018  
 Curso livre de artes para alunos do ensino médio e nono ano do ensino fundamental II  
 Retratos

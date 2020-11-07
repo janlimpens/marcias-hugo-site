@@ -4,9 +4,9 @@ date: 2019-05-04T14:41:49-03:00
 author: Marcia Cymbalista
 ---
 
-marcia cymbalista  
-\* 01/03/1972  
-são paulo, brasil
+- marcia cymbalista
+- \* 01/03/1972
+- são paulo, brasil
 
 **formação universitária**
 
