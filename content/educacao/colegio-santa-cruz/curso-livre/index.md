@@ -2,9 +2,8 @@
 id: 154416349
 title: Curso Livre
 date: 2018-04-22T17:44:31-03:00
-author: admin
-layout: page
-guid: http://sobredesenho.limpens.com/educacao/colegio-santa-cruz/curso-livre/
+
+draft: false
 ---
 
 <div id='gallery-25' class='gallery galleryid-154416349 gallery-columns-3 gallery-size-thumbnail'>

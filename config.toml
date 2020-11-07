@@ -3,6 +3,7 @@ enableInlineShortcodes = true
 languageCode = "pt-br"
 theme = "basedoff"
 title = "Sobre desenho"
+defaultcontentlanguage = "pt"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]

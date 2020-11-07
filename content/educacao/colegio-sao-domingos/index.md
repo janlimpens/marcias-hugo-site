@@ -1,10 +1,7 @@
 ---
-id: 154416237
 title: Colégio São Domingos
 date: 2018-04-21T17:56:33-03:00
-author: admin
-layout: page
-guid: http://sobredesenho.limpens.com/?page_id=154416237
+draft: false
 ---
 
 Primeiro semestre de 2018  

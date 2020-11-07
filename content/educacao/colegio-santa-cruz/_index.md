@@ -2,9 +2,7 @@
 id: 154416235
 title: Colégio Santa Cruz
 date: 2018-04-21T17:55:04-03:00
-author: admin
-layout: page
-guid: http://sobredesenho.limpens.com/?page_id=154416235
+draft: false
 ---
 Primeiro semestre de 2018  
 Curso livre de artes para alunos do ensino médio  

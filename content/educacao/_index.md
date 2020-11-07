@@ -1,7 +1,7 @@
 ---
 title: Educação
 date: 2018-04-21T17:45:17-03:00
-author: admin
+draft: false
 ---
 
 2018

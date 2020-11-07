@@ -2,6 +2,7 @@
 title: Currículo
 date: 2019-05-04T14:41:49-03:00
 author: Marcia Cymbalista
+draft: false
 ---
 
 - marcia cymbalista

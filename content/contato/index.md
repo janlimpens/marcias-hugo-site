@@ -2,6 +2,7 @@
 title: Contato
 date: 2018-04-22T18:55:46-03:00
 author: admin
+draft: false
 ---
 
 <form name="contact" method="POST" data-netlify="true">
