@@ -11,24 +11,22 @@ customJs = []
 defaultImageFit = "800x800"
 defaultThumbCrop = "150x150 smart"
 
-[permalinks]
-blog  = "/blog/:year/:month/:title/"
 [[menu.main]]
 weight = 1
 name = "Trabalhos Artísticos"
-url = "/trabalhos-artisticos/"
+url = "/trabalhos-artisticos"
 [[menu.main]]
 weight = 2
 name = "Educação"
-url = "/educacao/"
+url = "/educacao"
 [[menu.main]]
 weight = 3
 name = "Currículo"
-url = "/curriculo/"
+url = "/curriculo"
 [[menu.main]]
 weight = 4
 name = "Contato"
-url = "/contato/"
+url = "/contato"
 
 [markup]
   [markup.goldmark.renderer]
