@@ -1,33 +1,29 @@
 baseURL = "/"
-languageCode = "pt-br"
-title = "Sobre desenho"
-theme = "basedoff"
 enableInlineShortcodes = true
-
+languageCode = "pt-br"
+theme = "basedoff"
+title = "Sobre desenho"
+[markup.goldmark.renderer]
+unsafe = true
+[[menu.main]]
+name = "Contato"
+url = "/contato"
+weight = 4
+[[menu.main]]
+name = "Currículo"
+url = "/curriculo"
+weight = 3
+[[menu.main]]
+name = "Educação"
+url = "/educacao"
+weight = 2
+[[menu.main]]
+name = "Trabalhos Artísticos"
+url = "/trabalhos-artisticos"
+weight = 1
 [params]
-subtitle = "Marcia Cymbalista"
 customCss = []
 customJs = []
 defaultImageFit = "800x800"
 defaultThumbCrop = "150x150 smart"
-
-[[menu.main]]
-weight = 1
-name = "Trabalhos Artísticos"
-url = "/trabalhos-artisticos"
-[[menu.main]]
-weight = 2
-name = "Educação"
-url = "/educacao"
-[[menu.main]]
-weight = 3
-name = "Currículo"
-url = "/curriculo"
-[[menu.main]]
-weight = 4
-name = "Contato"
-url = "/contato"
-
-[markup]
-  [markup.goldmark.renderer]
-    unsafe=true
+subtitle = "Marcia Cymbalista"
