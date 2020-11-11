@@ -5,8 +5,8 @@ theme = "basedoff"
 title = "Sobre desenho"
 defaultcontentlanguage = "pt"
 [params]
-customCss = []
-customJs = []
+customCss = ["lightbox2/css/lightbox.min.css", "css/custom.css"]
+customJs = ["js/jquery.js", "lightbox2/js/lightbox.min.js"]
 defaultImageFit = "600x600"
 defaultImageMaxFit = "1200x1200"
 defaultThumbCrop = "150x150 smart"
