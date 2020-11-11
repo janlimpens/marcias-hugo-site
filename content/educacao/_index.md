@@ -1,7 +1,8 @@
 ---
-title: Educação
-date: 2018-04-21T17:45:17-03:00
+converted: 2020-11-11 12:10:28.729763
+date: 2018-04-21 17:45:17-03:00
 draft: false
+title: Educação
 ---
 
 2018

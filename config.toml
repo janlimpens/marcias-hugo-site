@@ -4,6 +4,12 @@ languageCode = "pt-br"
 theme = "basedoff"
 title = "Sobre desenho"
 defaultcontentlanguage = "pt"
+[params]
+customCss = []
+customJs = []
+defaultImageFit = "800x800"
+defaultThumbCrop = "150x150 smart"
+subtitle = "Marcia Cymbalista"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
@@ -22,9 +28,3 @@ weight = 2
 name = "Trabalhos Artísticos"
 url = "/trabalhos-artisticos"
 weight = 1
-[params]
-customCss = []
-customJs = []
-defaultImageFit = "800x800"
-defaultThumbCrop = "150x150 smart"
-subtitle = "Marcia Cymbalista"

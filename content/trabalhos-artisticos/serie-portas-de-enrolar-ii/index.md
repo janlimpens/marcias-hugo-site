@@ -1,89 +1,30 @@
 ---
-id: 154416566
-title: Série “Portas de Enrolar II”
-date: 2019-05-12T22:05:01-03:00
 author: Marcia Cymbalista
-layout: page
+converted: 2020-11-11 12:10:28.673339
+date: 2019-05-12 22:05:01-03:00
 guid: https://sobredesenho.limpens.com/trabalhos-artisticos/serie-portas-de-enrolar-ii/
+id: 154416566
 image: /wp-content/uploads/2019/05/Img0364baixa-1.jpg
+layout: page
+title: Série “Portas de Enrolar II”
 ---
 
-<div id='gallery-28' class='gallery galleryid-154416566 gallery-columns-3 gallery-size-medium'>
-  <figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0368baixa.jpg?ssl=1'><img width="192" height="300" src="https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0368baixa.jpg?resize=192%2C300&#038;ssl=1" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-28-154416563" srcset="https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0368baixa.jpg?resize=192%2C300&ssl=1 192w, https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0368baixa.jpg?w=656&ssl=1 656w" sizes="(max-width: 192px) 85vw, 192px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-28-154416563'> Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0369baixa-1.jpg?ssl=1'><img width="189" height="300" src="https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0369baixa-1.jpg?resize=189%2C300&#038;ssl=1" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-28-154416562" srcset="https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0369baixa-1.jpg?resize=189%2C300&ssl=1 189w, https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0369baixa-1.jpg?w=641&ssl=1 641w" sizes="(max-width: 189px) 85vw, 189px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-28-154416562'> Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0360baixa-1.jpg?ssl=1'><img width="189" height="300" src="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0360baixa-1.jpg?resize=189%2C300&#038;ssl=1" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-28-154416561" srcset="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0360baixa-1.jpg?resize=189%2C300&ssl=1 189w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0360baixa-1.jpg?w=603&ssl=1 603w" sizes="(max-width: 189px) 85vw, 189px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-28-154416561'> Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0361-baixa1.jpg?ssl=1'><img width="189" height="300" src="https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0361-baixa1.jpg?resize=189%2C300&#038;ssl=1" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-28-154416560" srcset="https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0361-baixa1.jpg?resize=189%2C300&ssl=1 189w, https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0361-baixa1.jpg?w=610&ssl=1 610w" sizes="(max-width: 189px) 85vw, 189px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-28-154416560'> Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0362baixa-1.jpg?ssl=1'><img width="189" height="300" src="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0362baixa-1.jpg?resize=189%2C300&#038;ssl=1" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-28-154416559" srcset="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0362baixa-1.jpg?resize=189%2C300&ssl=1 189w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0362baixa-1.jpg?w=613&ssl=1 613w" sizes="(max-width: 189px) 85vw, 189px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-28-154416559'> Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0363-baixa1.jpg?ssl=1'><img width="189" height="300" src="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0363-baixa1.jpg?resize=189%2C300&#038;ssl=1" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-28-154416558" srcset="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0363-baixa1.jpg?resize=189%2C300&ssl=1 189w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0363-baixa1.jpg?w=617&ssl=1 617w" sizes="(max-width: 189px) 85vw, 189px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-28-154416558'> Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0364baixa-1.jpg?ssl=1'><img width="189" height="300" src="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0364baixa-1.jpg?resize=189%2C300&#038;ssl=1" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-28-154416557" srcset="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0364baixa-1.jpg?resize=189%2C300&ssl=1 189w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0364baixa-1.jpg?w=620&ssl=1 620w" sizes="(max-width: 189px) 85vw, 189px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-28-154416557'> Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0366baixa-1.jpg?ssl=1'><img width="189" height="300" src="https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0366baixa-1.jpg?resize=189%2C300&#038;ssl=1" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-28-154416556" srcset="https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0366baixa-1.jpg?resize=189%2C300&ssl=1 189w, https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0366baixa-1.jpg?w=620&ssl=1 620w" sizes="(max-width: 189px) 85vw, 189px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-28-154416556'> Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0367-baixa1.jpg?ssl=1'><img width="189" height="300" src="https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0367-baixa1.jpg?resize=189%2C300&#038;ssl=1" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-28-154416555" srcset="https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0367-baixa1.jpg?resize=189%2C300&ssl=1 189w, https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0367-baixa1.jpg?w=628&ssl=1 628w" sizes="(max-width: 189px) 85vw, 189px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-28-154416555'> Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0359-baixa1.jpg?ssl=1'><img width="189" height="300" src="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0359-baixa1.jpg?resize=189%2C300&#038;ssl=1" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-28-154416554" srcset="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0359-baixa1.jpg?resize=189%2C300&ssl=1 189w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0359-baixa1.jpg?resize=768%2C1220&ssl=1 768w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0359-baixa1.jpg?resize=644%2C1024&ssl=1 644w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0359-baixa1.jpg?resize=1200%2C1907&ssl=1 1200w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0359-baixa1.jpg?w=1680&ssl=1 1680w" sizes="(max-width: 189px) 85vw, 189px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-28-154416554'> Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0358-baixa1.jpg?ssl=1'><img width="189" height="300" src="https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0358-baixa1.jpg?resize=189%2C300&#038;ssl=1" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-28-154416553" srcset="https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0358-baixa1.jpg?resize=189%2C300&ssl=1 189w, https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0358-baixa1.jpg?resize=768%2C1220&ssl=1 768w, https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0358-baixa1.jpg?resize=645%2C1024&ssl=1 645w, https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0358-baixa1.jpg?resize=1200%2C1906&ssl=1 1200w, https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0358-baixa1.jpg?w=1680&ssl=1 1680w" sizes="(max-width: 189px) 85vw, 189px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-28-154416553'> Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0354-baixa1.jpg?ssl=1'><img width="189" height="300" src="https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0354-baixa1.jpg?resize=189%2C300&#038;ssl=1" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-28-154416552" srcset="https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0354-baixa1.jpg?resize=189%2C300&ssl=1 189w, https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0354-baixa1.jpg?w=600&ssl=1 600w" sizes="(max-width: 189px) 85vw, 189px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-28-154416552'> Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0355baixa-1.jpg?ssl=1'><img width="189" height="300" src="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0355baixa-1.jpg?resize=189%2C300&#038;ssl=1" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-28-154416551" srcset="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0355baixa-1.jpg?resize=189%2C300&ssl=1 189w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0355baixa-1.jpg?w=590&ssl=1 590w" sizes="(max-width: 189px) 85vw, 189px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-28-154416551'> Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0356baixa-1.jpg?ssl=1'><img width="189" height="300" src="https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0356baixa-1.jpg?resize=189%2C300&#038;ssl=1" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-28-154416550" srcset="https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0356baixa-1.jpg?resize=189%2C300&ssl=1 189w, https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0356baixa-1.jpg?w=596&ssl=1 596w" sizes="(max-width: 189px) 85vw, 189px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-28-154416550'> Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0357-baixa1.jpg?ssl=1'><img width="189" height="300" src="https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0357-baixa1.jpg?resize=189%2C300&#038;ssl=1" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-28-154416549" srcset="https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0357-baixa1.jpg?resize=189%2C300&ssl=1 189w, https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0357-baixa1.jpg?w=600&ssl=1 600w" sizes="(max-width: 189px) 85vw, 189px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-28-154416549'> Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0353baixa-1.jpg?ssl=1'><img width="189" height="300" src="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0353baixa-1.jpg?resize=189%2C300&#038;ssl=1" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-28-154416548" srcset="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0353baixa-1.jpg?resize=189%2C300&ssl=1 189w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0353baixa-1.jpg?w=605&ssl=1 605w" sizes="(max-width: 189px) 85vw, 189px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-28-154416548'> Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0352-baixa1.jpg?ssl=1'><img width="189" height="300" src="https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0352-baixa1.jpg?resize=189%2C300&#038;ssl=1" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-28-154416547" srcset="https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0352-baixa1.jpg?resize=189%2C300&ssl=1 189w, https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0352-baixa1.jpg?w=607&ssl=1 607w" sizes="(max-width: 189px) 85vw, 189px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-28-154416547'> Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0351-baixa1.jpg?ssl=1'><img width="189" height="300" src="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0351-baixa1.jpg?resize=189%2C300&#038;ssl=1" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-28-154416546" srcset="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0351-baixa1.jpg?resize=189%2C300&ssl=1 189w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0351-baixa1.jpg?w=597&ssl=1 597w" sizes="(max-width: 189px) 85vw, 189px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-28-154416546'> Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0350baixa-1.jpg?ssl=1'><img width="189" height="300" src="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0350baixa-1.jpg?resize=189%2C300&#038;ssl=1" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-28-154416545" srcset="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0350baixa-1.jpg?resize=189%2C300&ssl=1 189w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2019/05/Img0350baixa-1.jpg?w=574&ssl=1 574w" sizes="(max-width: 189px) 85vw, 189px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-28-154416545'> Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019. </figcaption></figure>
-</div>
+![](/wp-content/uploads/2019/05/Img0368baixa.jpg "Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019.")
+![](/wp-content/uploads/2019/05/Img0369baixa-1.jpg "Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019.")
+![](/wp-content/uploads/2019/05/Img0360baixa-1.jpg "Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019.")
+![](/wp-content/uploads/2019/05/Img0361-baixa1.jpg "Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019.")
+![](/wp-content/uploads/2019/05/Img0362baixa-1.jpg "Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019.")
+![](/wp-content/uploads/2019/05/Img0363-baixa1.jpg "Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019.")
+![](/wp-content/uploads/2019/05/Img0364baixa-1.jpg "Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019.")
+![](/wp-content/uploads/2019/05/Img0366baixa-1.jpg "Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019.")
+![](/wp-content/uploads/2019/05/Img0367-baixa1.jpg "Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019.")
+![](/wp-content/uploads/2019/05/Img0359-baixa1.jpg "Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019.")
+![](/wp-content/uploads/2019/05/Img0358-baixa1.jpg "Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019.")
+![](/wp-content/uploads/2019/05/Img0354-baixa1.jpg "Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019.")
+![](/wp-content/uploads/2019/05/Img0355baixa-1.jpg "Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019.")
+![](/wp-content/uploads/2019/05/Img0356baixa-1.jpg "Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019.")
+![](/wp-content/uploads/2019/05/Img0357-baixa1.jpg "Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019.")
+![](/wp-content/uploads/2019/05/Img0353baixa-1.jpg "Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019.")
+![](/wp-content/uploads/2019/05/Img0352-baixa1.jpg "Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019.")
+![](/wp-content/uploads/2019/05/Img0351-baixa1.jpg "Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019.")
+![](/wp-content/uploads/2019/05/Img0350baixa-1.jpg "Pontas de metal e têmpera sobre papel, 26 x 16 cm, 2015 a 2019.")

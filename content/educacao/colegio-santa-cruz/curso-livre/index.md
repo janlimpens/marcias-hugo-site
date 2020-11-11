@@ -1,47 +1,17 @@
 ---
+converted: 2020-11-11 12:10:28.843507
+date: 2018-04-22 17:44:31-03:00
+draft: false
 id: 154416349
 title: Curso Livre
-date: 2018-04-22T17:44:31-03:00
-
-draft: false
 ---
 
-<div id='gallery-25' class='gallery galleryid-154416349 gallery-columns-3 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180219.jpg'><img width="150" height="150" src="https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180219.jpg?resize=150%2C150&#038;ssl=1" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" aria-describedby="gallery-25-154416330" srcset="https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180219.jpg?resize=150%2C150&ssl=1 150w, https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180219.jpg?zoom=2&resize=150%2C150&ssl=1 300w, https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180219.jpg?zoom=3&resize=150%2C150&ssl=1 450w" sizes="(max-width: 150px) 85vw, 150px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-25-154416330'> Colégio Santa Cruz, 2018, Curso Livre, Monotipia. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180836.jpg'><img width="150" height="150" src="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180836.jpg?resize=150%2C150&#038;ssl=1" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" aria-describedby="gallery-25-154416339" srcset="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180836.jpg?resize=150%2C150&ssl=1 150w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180836.jpg?zoom=2&resize=150%2C150&ssl=1 300w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180836.jpg?zoom=3&resize=150%2C150&ssl=1 450w" sizes="(max-width: 150px) 85vw, 150px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-25-154416339'> Colégio Santa Cruz, 2018, Curso Livre, Monotipia. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_184343-1.jpg'><img width="150" height="150" src="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_184343-1.jpg?resize=150%2C150&#038;ssl=1" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" aria-describedby="gallery-25-154416338" srcset="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_184343-1.jpg?resize=150%2C150&ssl=1 150w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_184343-1.jpg?zoom=2&resize=150%2C150&ssl=1 300w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_184343-1.jpg?zoom=3&resize=150%2C150&ssl=1 450w" sizes="(max-width: 150px) 85vw, 150px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-25-154416338'> Colégio Santa Cruz, 2018, Curso Livre, Monotipia. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180745.jpg'><img width="150" height="150" src="https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180745.jpg?resize=150%2C150&#038;ssl=1" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" aria-describedby="gallery-25-154416331" srcset="https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180745.jpg?resize=150%2C150&ssl=1 150w, https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180745.jpg?zoom=2&resize=150%2C150&ssl=1 300w, https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180745.jpg?zoom=3&resize=150%2C150&ssl=1 450w" sizes="(max-width: 150px) 85vw, 150px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-25-154416331'> Colégio Santa Cruz, 2018, Curso Livre, Monotipia. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180845.jpg'><img width="150" height="150" src="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180845.jpg?resize=150%2C150&#038;ssl=1" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" aria-describedby="gallery-25-154416340" srcset="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180845.jpg?resize=150%2C150&ssl=1 150w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180845.jpg?zoom=2&resize=150%2C150&ssl=1 300w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180845.jpg?zoom=3&resize=150%2C150&ssl=1 450w" sizes="(max-width: 150px) 85vw, 150px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-25-154416340'> Colégio Santa Cruz, 2018, Curso Livre, Monotipia. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180940.jpg'><img width="150" height="150" src="https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180940.jpg?resize=150%2C150&#038;ssl=1" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" aria-describedby="gallery-25-154416337" srcset="https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180940.jpg?resize=150%2C150&ssl=1 150w, https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180940.jpg?zoom=2&resize=150%2C150&ssl=1 300w, https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180940.jpg?zoom=3&resize=150%2C150&ssl=1 450w" sizes="(max-width: 150px) 85vw, 150px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-25-154416337'> Colégio Santa Cruz, 2018, Curso Livre, Monotipia. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180911.jpg'><img width="150" height="150" src="https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180911.jpg?resize=150%2C150&#038;ssl=1" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" aria-describedby="gallery-25-154416336" srcset="https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180911.jpg?resize=150%2C150&ssl=1 150w, https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180911.jpg?zoom=2&resize=150%2C150&ssl=1 300w, https://i2.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180911.jpg?zoom=3&resize=150%2C150&ssl=1 450w" sizes="(max-width: 150px) 85vw, 150px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-25-154416336'> Colégio Santa Cruz, 2018, Curso Livre, Monotipia. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180820.jpg'><img width="150" height="150" src="https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180820.jpg?resize=150%2C150&#038;ssl=1" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" aria-describedby="gallery-25-154416332" srcset="https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180820.jpg?resize=150%2C150&ssl=1 150w, https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180820.jpg?zoom=2&resize=150%2C150&ssl=1 300w, https://i1.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180820.jpg?zoom=3&resize=150%2C150&ssl=1 450w" sizes="(max-width: 150px) 85vw, 150px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-25-154416332'> Colégio Santa Cruz, 2018, Curso Livre, Monotipia. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180852.jpg'><img width="150" height="150" src="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180852.jpg?resize=150%2C150&#038;ssl=1" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" aria-describedby="gallery-25-154416341" srcset="https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180852.jpg?resize=150%2C150&ssl=1 150w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180852.jpg?zoom=2&resize=150%2C150&ssl=1 300w, https://i0.wp.com/sobredesenho.limpens.com/wp-content/uploads/2018/04/IMG_20180416_180852.jpg?zoom=3&resize=150%2C150&ssl=1 450w" sizes="(max-width: 150px) 85vw, 150px" data-recalc-dims="1" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-25-154416341'> Colégio Santa Cruz, 2018, Curso Livre, Monotipia. </figcaption></figure>
-</div>
+![](/wp-content/uploads/2018/04/IMG_20180416_180219.jpg "Colégio Santa Cruz, 2018, Curso Livre, Monotipia.")
+![](/wp-content/uploads/2018/04/IMG_20180416_180836.jpg "Colégio Santa Cruz, 2018, Curso Livre, Monotipia.")
+![](/wp-content/uploads/2018/04/IMG_20180416_184343-1.jpg "Colégio Santa Cruz, 2018, Curso Livre, Monotipia.")
+![](/wp-content/uploads/2018/04/IMG_20180416_180745.jpg "Colégio Santa Cruz, 2018, Curso Livre, Monotipia.")
+![](/wp-content/uploads/2018/04/IMG_20180416_180845.jpg "Colégio Santa Cruz, 2018, Curso Livre, Monotipia.")
+![](/wp-content/uploads/2018/04/IMG_20180416_180940.jpg "Colégio Santa Cruz, 2018, Curso Livre, Monotipia.")
+![](/wp-content/uploads/2018/04/IMG_20180416_180911.jpg "Colégio Santa Cruz, 2018, Curso Livre, Monotipia.")
+![](/wp-content/uploads/2018/04/IMG_20180416_180820.jpg "Colégio Santa Cruz, 2018, Curso Livre, Monotipia.")
+![](/wp-content/uploads/2018/04/IMG_20180416_180852.jpg "Colégio Santa Cruz, 2018, Curso Livre, Monotipia.")

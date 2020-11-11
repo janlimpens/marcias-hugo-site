@@ -1,0 +1,13 @@
+{{- $img := .Page.Resources.GetMatch .Destination -}}
+{{- $imagefit := .Page.Param "image-fit" | default .Page.Site.Params.defaultImageFit -}}
+{{- with $img -}}
+<figure>
+    {{ $fit := .Fit $imagefit }}
+    <a href="{{$img.RelPermalink}}">
+        <img src="{{ $fit.RelPermalink }}" alt="{{ $.Text }}" title="{{ with $.Title }}{{ . }}{{ end }}" />
+    </a>
+    {{- else -}}
+    <img src="{{ .Destination | safeURL }}" alt="{{ $.Text }}" title="{{ with $.Title }}{{ . }}{{ end }}" />
+    {{- end -}}
+    <figcaption>{{ with $.Title }}{{ . }}{{ end }}</figcaption>
+</figure>
