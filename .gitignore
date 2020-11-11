@@ -5,4 +5,4 @@ site/data/webpack.json
 yarn-error.log
 .directory
 resources
-
+.vscode
