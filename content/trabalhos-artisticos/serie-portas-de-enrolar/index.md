@@ -9,7 +9,11 @@ layout: page
 title: Série &#8220;Portas de Enrolar&#8221;
 ---
 
-![](/wp-content/uploads/2012/07/Vende-se.png.scaled1000.png "“Vende-se” Têmpera e punção de alfabeto sobre papel, 30 x 42 cm, 2013 a 2016")
-![](/wp-content/uploads/2012/07/Ferrugem.png.scaled1000.png "Têmpera e punção de alfabeto sobre papel, 30 x 42 cm, 2013 a 2016")
-![](/wp-content/uploads/2012/07/Cuidado_cao_feroz.png.scaled1000.png "“Cuidado Cão Feroz” Têmpera e punção de alfabeto sobre papel, 30 x 42 cm, 2013 a 2016")
-![](/wp-content/uploads/2012/07/Aberto_Fechado.png.scaled1000.png "“Aberto / Fechado” Têmpera e punção de alfabeto sobre papel, 30 x 42 cm, 2013 a 2016")
+![](Vende-se.png.scaled1000.png "“Vende-se” Têmpera e punção de alfabeto sobre papel, 30 x 42 cm, 2013 a 2016")
+
+![](Ferrugem.png.scaled1000.png "Têmpera e punção de alfabeto sobre papel, 30 x 42 cm, 2013 a 2016")
+
+![](Cuidado_cao_feroz.png.scaled1000.png "“Cuidado Cão Feroz” Têmpera e punção de alfabeto sobre papel, 30 x 42 cm, 2013 a 2016")
+
+![](Aberto_Fechado.png.scaled1000.png "“Aberto / Fechado” Têmpera e punção de alfabeto sobre papel, 30 x 42 cm, 2013 a 2016")
+

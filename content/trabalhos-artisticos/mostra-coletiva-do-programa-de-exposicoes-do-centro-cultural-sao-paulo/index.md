@@ -9,7 +9,10 @@ layout: page
 title: Mostra Coletiva do Programa de Exposições do Centro Cultural São Paulo
 ---
 
-![](/wp-content/uploads/2013/04/Fenster-Itú-an-der-Wandbaixa2.jpg "Frotagem retrabalhada de persianas. Grafite sobre papel, 300 x 118 cm, 2002.")
+![](Fenster-Itú-an-der-Wandbaixa2.jpg "Frotagem retrabalhada de persianas. Grafite sobre papel, 300 x 118 cm, 2002.")
 
-![](/wp-content/uploads/2013/04/Fenster-Itú-an-der-Wandbaixa2.jpg "Frotagem retrabalhada de persianas. Grafite sobre papel, 300 x 118 cm, 2002.")
-![](/wp-content/uploads/2013/04/coletiva-ccsp-1-retrabalhada-baixa2.jpg "Frotagem retrabalhada de persianas. Grafite sobre papel, 300 x 118 cm, 2002.")
+
+![](Fenster-Itú-an-der-Wandbaixa2.jpg "Frotagem retrabalhada de persianas. Grafite sobre papel, 300 x 118 cm, 2002.")
+
+![](coletiva-ccsp-1-retrabalhada-baixa2.jpg "Frotagem retrabalhada de persianas. Grafite sobre papel, 300 x 118 cm, 2002.")
+

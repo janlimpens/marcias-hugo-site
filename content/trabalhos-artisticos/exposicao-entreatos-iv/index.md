@@ -9,4 +9,5 @@ layout: page
 title: Exposição &#8220;Entreatos IV&#8221;
 ---
 
-![](/wp-content/uploads/2013/04/fotobuti3IMG_1748para-internet.jpg ", Tinta latex sobre muro, 2009")
+![](fotobuti3IMG_1748para-internet.jpg ", Tinta latex sobre muro, 2009")
+

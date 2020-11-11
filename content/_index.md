@@ -5,7 +5,7 @@ image-fit: 500x500
 title: Homepage
 ---
 
-![Marcia](images/retrato-marcia.jpg)
+![Marcia](retrato-marcia.jpg)
 
 Marcia Cymbalista nasceu em São Paulo em 1972. É mestre em Artes Visuais pela ECA-USP. Cursou Artes Gráficas Livres na Universidade de Artes Aplicadas de Viena e é licenciada e bacharel em Educação Artística pela UNICAMP. Fez parte do Grupo de Estudo Sobre a Gráfica na ECA-USP.
 

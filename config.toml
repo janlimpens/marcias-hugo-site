@@ -7,7 +7,8 @@ defaultcontentlanguage = "pt"
 [params]
 customCss = []
 customJs = []
-defaultImageFit = "800x800"
+defaultImageFit = "600x600"
+defaultImageMaxFit = "1200x1200"
 defaultThumbCrop = "150x150 smart"
 subtitle = "Marcia Cymbalista"
 [markup.goldmark.renderer]

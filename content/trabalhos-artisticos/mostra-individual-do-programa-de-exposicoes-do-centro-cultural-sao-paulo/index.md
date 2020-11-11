@@ -9,6 +9,9 @@ layout: page
 title: Mostra Individual do Programa de Exposições do Centro Cultural São Paulo
 ---
 
-![](/wp-content/uploads/2013/04/individual-ccsp-1-retrabalhada-baixa.jpg "Frotagem retrabalhada de persianas. Grafite sobre papel, 300 x 118 cm. Centro Cultural São Paulo, 2002.")
-![](/wp-content/uploads/2013/04/individual-ccsp-2-retrabalhada-baixa.jpg "Frotagem retrabalhada de persianas e armário de madeira. Grafite sobre papel, 300 x 118 cm. Centro Cultural São Paulo, 2002.")
-![](/wp-content/uploads/2013/04/individual-ccsp-3-retrabalhada-baixa.jpg "Frotagem retrabalhada de armário de madeira. Grafite sobre papel, 310 x 101 cm. Centro Cultural São Paulo, 2002.")
+![](individual-ccsp-1-retrabalhada-baixa.jpg "Frotagem retrabalhada de persianas. Grafite sobre papel, 300 x 118 cm. Centro Cultural São Paulo, 2002.")
+
+![](individual-ccsp-2-retrabalhada-baixa.jpg "Frotagem retrabalhada de persianas e armário de madeira. Grafite sobre papel, 300 x 118 cm. Centro Cultural São Paulo, 2002.")
+
+![](individual-ccsp-3-retrabalhada-baixa.jpg "Frotagem retrabalhada de armário de madeira. Grafite sobre papel, 310 x 101 cm. Centro Cultural São Paulo, 2002.")
+

@@ -11,10 +11,17 @@ title: Trabalhos Artísticos
 
 ![](wp-content/uploads/2013/04/img044baixa.jpg "Tinta de impressão sobre papel arroz, 43 x 47 cm, Viena, 1998.")
 
-![](/wp-content/uploads/2013/04/img043baixa.jpg "Tinta de impressão sobre papel arroz, 43 x 47 cm, Viena, 1998.")
-![](/wp-content/uploads/2013/04/img042baixa.jpg "Tinta de impressão sobre papel arroz, 43 x 47 cm, Viena, 1998.")
-![](/wp-content/uploads/2013/04/img041baixa.jpg "Tinta de impressão sobre papel arroz, 43 x 47 cm, Viena, 1998.")
-![](/wp-content/uploads/2013/04/img040baixa.jpg "Tinta de impressão sobre papel arroz, 43 x 47 cm, Viena, 1998.")
-![](/wp-content/uploads/2013/04/img039baixa.jpg "Tinta de impressão sobre papel arroz, 43 x 47 cm, Viena, 1998.")
-![](/wp-content/uploads/2013/04/img038baixa.jpg "Tinta de impressão sobre papel arroz, 43 x 47 cm, Viena, 1998.")
-![](/wp-content/uploads/2013/04/img037baixa.jpg "Tinta de impressão sobre papel arroz, 43 x 47 cm, Viena, 1998.")
+![](img043baixa.jpg "Tinta de impressão sobre papel arroz, 43 x 47 cm, Viena, 1998.")
+
+![](img042baixa.jpg "Tinta de impressão sobre papel arroz, 43 x 47 cm, Viena, 1998.")
+
+![](img041baixa.jpg "Tinta de impressão sobre papel arroz, 43 x 47 cm, Viena, 1998.")
+
+![](img040baixa.jpg "Tinta de impressão sobre papel arroz, 43 x 47 cm, Viena, 1998.")
+
+![](img039baixa.jpg "Tinta de impressão sobre papel arroz, 43 x 47 cm, Viena, 1998.")
+
+![](img038baixa.jpg "Tinta de impressão sobre papel arroz, 43 x 47 cm, Viena, 1998.")
+
+![](img037baixa.jpg "Tinta de impressão sobre papel arroz, 43 x 47 cm, Viena, 1998.")
+

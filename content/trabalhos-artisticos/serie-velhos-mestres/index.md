@@ -8,12 +8,21 @@ layout: page
 title: Série &#8220;Velhos Mestres&#8221;
 ---
 
-![](/wp-content/uploads/2013/04/img082retrabalhadabaixa.jpg "Grafite e têmpera sobre papel, 25 x18 cm, 2004 – 2005.")
-![](/wp-content/uploads/2013/04/img084retrabalhadabaixa.jpg "Grafite e têmpera sobre papel, 25 x18 cm, 2004 – 2005.")
-![](/wp-content/uploads/2013/04/img083retrabalhadabaixa.jpg "Grafite e têmpera sobre papel, 25 x18 cm, 2004 – 2005.")
-![](/wp-content/uploads/2013/04/img081retrabalhadabaixa.jpg "Grafite e têmpera sobre papel, 25 x18 cm, 2004 – 2005.")
-![](/wp-content/uploads/2013/04/img080retrabalhadabaixa.jpg "Grafite e têmpera sobre papel, 25 x18 cm, 2004 – 2005.")
-![](/wp-content/uploads/2013/04/img079retrabalhadabaixa.jpg "Grafite e têmpera sobre papel, 25 x18 cm, 2004 – 2005.")
-![](/wp-content/uploads/2013/04/img077retrabalhadabaixa.jpg "Grafite e têmpera sobre papel, 25 x18 cm, 2004 – 2005.")
-![](/wp-content/uploads/2013/04/img076retrabalhadabaixa.jpg "Grafite e têmpera sobre papel, 25 x18 cm, 2004 – 2005.")
-![](/wp-content/uploads/2013/04/img075retrabalhadabaixa.jpg "Grafite e têmpera sobre papel, 25 x18 cm, 2004 – 2005.")
+![](img082retrabalhadabaixa.jpg "Grafite e têmpera sobre papel, 25 x18 cm, 2004 – 2005.")
+
+![](img084retrabalhadabaixa.jpg "Grafite e têmpera sobre papel, 25 x18 cm, 2004 – 2005.")
+
+![](img083retrabalhadabaixa.jpg "Grafite e têmpera sobre papel, 25 x18 cm, 2004 – 2005.")
+
+![](img081retrabalhadabaixa.jpg "Grafite e têmpera sobre papel, 25 x18 cm, 2004 – 2005.")
+
+![](img080retrabalhadabaixa.jpg "Grafite e têmpera sobre papel, 25 x18 cm, 2004 – 2005.")
+
+![](img079retrabalhadabaixa.jpg "Grafite e têmpera sobre papel, 25 x18 cm, 2004 – 2005.")
+
+![](img077retrabalhadabaixa.jpg "Grafite e têmpera sobre papel, 25 x18 cm, 2004 – 2005.")
+
+![](img076retrabalhadabaixa.jpg "Grafite e têmpera sobre papel, 25 x18 cm, 2004 – 2005.")
+
+![](img075retrabalhadabaixa.jpg "Grafite e têmpera sobre papel, 25 x18 cm, 2004 – 2005.")
+

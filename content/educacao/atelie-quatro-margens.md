@@ -11,7 +11,9 @@ title: Ateliê Quatro Margens
 Cursos de desenho e acompanhamento de artista,  
 2017, São Paulo
 
-![](/wp-content/uploads/2018/04/IMG_20171124_112440.jpg "Ateliê Quatro Margens, 2017, Gabinete de curiosidades iniciado por Beth Lima.")
-![](/wp-content/uploads/2018/04/IMG_20171020_175026.jpg "Ateliê Quatro Margens, 2017, têmpera a ovo.")
+![](IMG_20171124_112440.jpg "Ateliê Quatro Margens, 2017, Gabinete de curiosidades iniciado por Beth Lima.")
+
+![](IMG_20171020_175026.jpg "Ateliê Quatro Margens, 2017, têmpera a ovo.")
+
 
 &nbsp;

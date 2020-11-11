@@ -1,9 +1,11 @@
 {{- $img := .Page.Resources.GetMatch .Destination -}}
 {{- $imagefit := .Page.Param "image-fit" | default .Page.Site.Params.defaultImageFit -}}
+{{- $imageMax := .Page.Param "max-fit" | default .Page.Site.Params.defaultImageMaxFit -}}
 {{- with $img -}}
 <figure>
     {{ $fit := .Fit $imagefit }}
-    <a href="{{$img.RelPermalink}}">
+    {{ $max := .Fit $imageMax }}
+    <a href="{{$max.RelPermalink}}">
         <img src="{{ $fit.RelPermalink }}" alt="{{ $.Text }}" title="{{ with $.Title }}{{ . }}{{ end }}" />
     </a>
     {{- else -}}

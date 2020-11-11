@@ -9,7 +9,11 @@ Primeiro semestre de 2018
 Curso livre de artes para alunos do ensino médio e nono ano do ensino fundamental II  
 Retratos
 
-![](/wp-content/uploads/2018/04/IMG_20180322_145818.jpg "Colégio São Domingos, Primeiro semestre de 2018 Curso livre de artes para alunos do ensino médio e nono ano do ensino fundamental II, São Paulo")
-![](/wp-content/uploads/2018/04/IMG_20180329_155537.jpg "Colégio São Domingos, Primeiro semestre de 2018 Curso livre de artes para alunos do ensino médio e nono ano do ensino fundamental II, Retratos São Paulo")
-![](/wp-content/uploads/2018/04/IMG_20180329_155819.jpg "Colégio São Domingos, Primeiro semestre de 2018 Curso livre de artes para alunos do ensino médio e nono ano do ensino fundamental II, Retratos São Paulo")
-![](/wp-content/uploads/2018/04/IMG_20180329_155752.jpg "Colégio São Domingos, Primeiro semestre de 2018 Curso livre de artes para alunos do ensino médio e nono ano do ensino fundamental II, Retratos São Paulo")
+![](IMG_20180322_145818.jpg "Colégio São Domingos, Primeiro semestre de 2018 Curso livre de artes para alunos do ensino médio e nono ano do ensino fundamental II, São Paulo")
+
+![](IMG_20180329_155537.jpg "Colégio São Domingos, Primeiro semestre de 2018 Curso livre de artes para alunos do ensino médio e nono ano do ensino fundamental II, Retratos São Paulo")
+
+![](IMG_20180329_155819.jpg "Colégio São Domingos, Primeiro semestre de 2018 Curso livre de artes para alunos do ensino médio e nono ano do ensino fundamental II, Retratos São Paulo")
+
+![](IMG_20180329_155752.jpg "Colégio São Domingos, Primeiro semestre de 2018 Curso livre de artes para alunos do ensino médio e nono ano do ensino fundamental II, Retratos São Paulo")
+
