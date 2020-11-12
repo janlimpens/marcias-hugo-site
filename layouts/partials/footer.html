@@ -1,0 +1,15 @@
+<hr />
+<p>
+    © Marcia Cymbalista, {{ now.Format "2006"}}
+</p>
+<script>
+    if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+            if (!user) {
+                window.netlifyIdentity.on("login", () => {
+                    document.location.href = "/admin/";
+                });
+            }
+        });
+    }
+</script>

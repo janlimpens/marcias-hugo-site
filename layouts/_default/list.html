@@ -13,18 +13,21 @@
         {{ $res_imgs := .Resources.ByType "image" }}
         {{ $matches:= $fm_images | default $res_imgs }}
         {{ $img := first 1 $matches }}
+        {{ $link :=.RelPermalink }}
         <div class="list-item">
             <div>
                 {{ with $img }}
                 {{ range . }}
                 {{- $thumbHref := .Fill $thumbCrop }}
-                <img src="{{$thumbHref.RelPermalink}}">
+                <a href="{{$link}}">
+                    <img src="{{$thumbHref.RelPermalink}}">
+                </a>
                 {{ end }}
                 {{ end }}
             </div>
             <div>
                 <h2>
-                    <a href="{{.RelPermalink}}">
+                    <a href="{{$link}}">
                         {{.Title}}
                     </a>
                 </h2>
