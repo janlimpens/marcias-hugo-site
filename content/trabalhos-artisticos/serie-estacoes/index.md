@@ -1,6 +1,6 @@
 ---
 date: 2018-04-22 13:36:23-03:00
-image: MG_9680.jpg
+image: "MG_9680.jpg"
 title: Série "Estações"
 ---
 

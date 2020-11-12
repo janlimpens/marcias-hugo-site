@@ -1,6 +1,6 @@
 ---
 date: 2018-04-22 13:42:33-03:00
-image: Fenster-Itú-an-der-Wandbaixa1.jpg
+image: "Fenster-Itú-an-der-Wandbaixa1.jpg"
 title: Mostra Coletiva do Programa de Exposições do Centro Cultural São Paulo
 ---
 

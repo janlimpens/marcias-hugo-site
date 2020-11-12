@@ -7,10 +7,10 @@ defaultcontentlanguage = "pt"
 timeout = "600000"
 [params]
 customCss = ["lightbox2/css/lightbox.min.css", "css/custom.css"]
-customJs = ["js/jquery.js", "lightbox2/js/lightbox.min.js"]
+customJs = ["js/jquery.js", "lightbox2/js/lightbox.min.js", "js/main.js"]
 defaultImageFit = "600x600"
 defaultImageMaxFit = "1200x1200"
-defaultThumbCrop = "150x150 smart"
+thumb-crop = "150x150 smart"
 subtitle = "Marcia Cymbalista"
 [markup.goldmark.renderer]
 unsafe = true

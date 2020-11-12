@@ -90,7 +90,7 @@ title: Currículo
 
   - 2002: aulas de artes para o 6<sup>o</sup> ano do ensino fundamental II, são paulo
 
-  **publicações, projetos e textos**
+**publicações, projetos e textos**
 
 - 2019
   - texto ‘autorretratos’: introdução para o catálogo do clube de gravadores, são paulo
@@ -104,7 +104,7 @@ title: Currículo
 
   - ensaio gráfico: revista ars 16 – publicação dos cursos de pós graduação do departamento de artes plásticas, eca, usp, são paulo
 
-  **exposições individuais**
+**exposições individuais**
 
 - 2011
   - estações – mostra vinculada à dissertação de mestrado defendida na eca, museu de arte contemporânea, usp, são paulo
@@ -168,7 +168,7 @@ title: Currículo
   - 6ª bienal nacional de santos – centro cultural patrícia galvão, são paulo
   - 19ª exposição internacional de gravuras de kanagawa\_– kanagawa, japão
 
-  **prêmios**
+**prêmios**
 
 - 2000
   - -terceiro prêmio – 7ª bienal nacional de santos

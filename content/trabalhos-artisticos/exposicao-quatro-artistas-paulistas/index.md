@@ -4,7 +4,7 @@ converted: 2020-11-11 12:10:28.714746
 date: 2019-05-05 18:06:55-03:00
 guid: https://sobredesenho.limpens.com/?page_id=154416521
 id: 154416521
-image: /wp-content/uploads/2019/05/Exposição-IMS-Poços-retrabalhadaIMG_20190412_170724-1200x845.jpg
+image: "Exposição-IMS-Poços-retrabalhadaIMG_20190412_170724-1200x845.jpg"
 layout: page
 title: Exposição "Quatro Artistas Paulistas"
 ---

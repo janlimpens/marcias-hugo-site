@@ -3,7 +3,7 @@ author: admin
 converted: 2020-11-11 12:10:28.645434
 date: 2004-04-22 13:44:43-03:00
 guid: http://sobredesenho.limpens.com/trabalhos-artisticos/serie-velhos-mestres/
-image: /wp-content/uploads/2013/04/img079retrabalhadabaixa.jpg
+image: "img079retrabalhadabaixa.jpg"
 layout: page
 title: Série "Velhos Mestres"
 ---

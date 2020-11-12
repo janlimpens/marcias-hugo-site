@@ -2,7 +2,7 @@
 author: Marcia Cymbalista
 converted: 2020-11-11 12:10:28.679400
 date: 2019-05-19 15:17:06-03:00
-image: 2019-01-baixa-galeria-virgilio-baixa-21.jpg
+image: "2019-01-baixa-galeria-virgilio-baixa-21.jpg"
 image-fit: 500x500
 title: Exposição "Baixa"
 ---

@@ -4,7 +4,7 @@ converted: 2020-11-11 12:10:28.689944
 date: 2018-04-22 15:26:47-03:00
 guid: http://sobredesenho.limpens.com/trabalhos-artisticos/exposicao-desenho-fotografia-gravura/
 id: 154416304
-image: /wp-content/uploads/2013/04/Graphias-geral-retrabalhada-036baixa.jpg
+image: "Graphias-geral-retrabalhada-036baixa.jpg"
 layout: page
 title: Exposição "Desenho, Fotografia, Gravura"
 ---

@@ -4,7 +4,7 @@ converted: 2020-11-11 12:10:28.639475
 date: 2018-04-22 13:43:57-03:00
 guid: http://sobredesenho.limpens.com/trabalhos-artisticos/serie-portas-de-enrolar/
 id: 154416288
-image: /wp-content/uploads/2012/07/Vende-se.png.scaled1000.png
+image: "Vende-se.png.scaled1000.png"
 layout: page
 title: Série "Portas de Enrolar"
 ---

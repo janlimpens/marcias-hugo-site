@@ -4,7 +4,7 @@ converted: 2020-11-11 12:10:28.657130
 date: 2018-04-22 15:22:38-03:00
 guid: http://sobredesenho.limpens.com/trabalhos-artisticos/serie-casa-vazia/
 id: 154416302
-image: /wp-content/uploads/2013/04/Graphias-casa-Vazia-retrabalhada-020baixa.jpg
+image: "Graphias-casa-Vazia-retrabalhada-020baixa.jpg"
 layout: page
 title: Série "Casa Vazia"
 ---

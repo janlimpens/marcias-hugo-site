@@ -2,8 +2,8 @@
 {{- $imagefit := .Page.Param "image-fit" | default .Page.Site.Params.defaultImageFit -}}
 {{- $imageMax := .Page.Param "max-fit" | default .Page.Site.Params.defaultImageMaxFit -}}
 {{- $galleryId := md5 .Page.Permalink}}
-{{- with $img -}}
 <figure>
+    {{- with $img -}}
     {{ $fit := .Fit $imagefit }}
     {{ $max := .Fit $imageMax }}
     <a href="{{$max.RelPermalink}}" data-lightbox="gallery-{{$galleryId}}">
@@ -12,5 +12,7 @@
     {{- else -}}
     <img src="{{ .Destination | safeURL }}" alt="{{ $.Text }}" title="{{ with $.Title }}{{ . }}{{ end }}" />
     {{- end -}}
-    <figcaption>{{ with $.Title }}{{ . }}{{ end }}</figcaption>
+    {{ with $.Title }}
+    <figcaption>{{ . }}</figcaption>
+    {{ end }}
 </figure>

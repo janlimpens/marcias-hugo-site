@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="content">
+  {{- if .Title }}
+  <h1>{{ .Title }}</h1>
+  {{- end }}
+  {{ .Content }}
+  {{- $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections -}}
+  {{- $paginator := .Paginate (where $pages "Params.hidden" "ne" true) -}}
+  <div class="list">
+    {{- range $paginator.Pages -}}
+    <div class="list-item">
+      {{- template "partials/article.html" . }}
+    </div>
+    {{ end }}
+    {{- template "partials/paginator.html" . }}
+  </div>
+</div>
+{{ end }}

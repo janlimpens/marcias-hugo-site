@@ -1,0 +1,40 @@
+{{ define "main" }}
+<div class="content">
+    {{ with $.Title }}
+    <h1>{{ . }}</h1>
+    {{ end }}
+    {{ .Content }}
+    {{- $paginator := .Paginate (where .Data.Pages "Params.hidden" "ne" true) -}}
+    <div class="list">
+        {{- range $paginator.Pages -}}
+        {{- $thumbCrop := $.Param "thumb-crop" }}
+        {{ $param_img := .Param "image" }}
+        {{ $fm_images := .Resources.Match $param_img }}
+        {{ $res_imgs := .Resources.ByType "image" }}
+        {{ $matches:= $fm_images | default $res_imgs }}
+        {{ $img := first 1 $matches }}
+        <div class="list-item">
+            <div>
+                {{ with $img }}
+                {{ range . }}
+                {{- $thumbHref := .Fill $thumbCrop }}
+                <img src="{{$thumbHref.RelPermalink}}">
+                {{ end }}
+                {{ end }}
+            </div>
+            <div>
+                <h2>
+                    <a href="{{.RelPermalink}}">
+                        {{.Title}}{{.Params.image}}
+                    </a>
+                </h2>
+                <p>
+                    {{.Summary}}
+                </p>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+    {{- template "partials/paginator.html" . }}
+</div>
+{{ end }}
