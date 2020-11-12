@@ -6,7 +6,7 @@ guid: http://sobredesenho.limpens.com/trabalhos-artisticos/serie-neustiftgasse/
 id: 154416286
 image: /wp-content/uploads/2013/04/008-pequena.jpg
 layout: page
-title: Série &#8220;Neustiftgasse&#8221;
+title: Série "Neustiftgasse"
 ---
 
 ![](009-pequena.jpg "Gravura em metal sobre papel, 1996 a 2001")
@@ -26,4 +26,3 @@ title: Série &#8220;Neustiftgasse&#8221;
 ![](002-pequena.jpg "Gravura em metal sobre papel, 1996 a 2001")
 
 ![](001-pequena.jpg "Gravura em metal sobre papel, 1996 a 2001")
-

@@ -1,8 +1,6 @@
 ---
-converted: 2020-11-11 12:10:28.832409
 date: 2018-04-21 17:55:04-03:00
 draft: false
-id: 154416235
 title: Colégio Santa Cruz
 ---
 
@@ -18,7 +16,6 @@ São Paulo
 ![](IMG_20180402_173515.jpg "Colégio Santa Cruz, 2018, Curso Livre, Retratos.")
 
 ![](IMG_20180319_173515.jpg "Colégio Santa Cruz, 2018, Curso Livre.")
-
 
 Primeiro semestre de 2018  
 Curso livre de artes para alunos do ensino médio  
@@ -41,7 +38,6 @@ São Paulo
 
 ![](IMG_20180416_180852.jpg "Colégio Santa Cruz, 2018, Curso Livre, Monotipia.")
 
-
 Primeiro semestre de 2018  
 Curso livre de artes para alunos do ensino médio  
 Autorretratos em tempos de selfie.  
@@ -59,7 +55,6 @@ São Paulo
 
 ![](IMG_20180312_181158.jpg "Colégio Santa Cruz, 2018, Curso Livre, Autorretratos em tempo de selfie.")
 
-
 Primeiro semestre de 2018  
 Curso livre de artes para alunos do ensino médio  
 Cartazes.  
@@ -68,7 +63,6 @@ São Paulo
 ![](IMG_20180219_182930.jpg "Colégio Santa Cruz, 2018, Curso Livre, Cartazes.")
 
 ![](IMG_20180219_182915.jpg "Colégio Santa Cruz, 2018, Curso Livre, Cartazes.")
-
 
 Primeiro semestre de 2018  
 Curso regular de desenho para primeiro ano do ensino médio  
@@ -86,7 +80,6 @@ São Paulo
 ![](IMG_20180319_142039.jpg "Colégio Santa Cruz, 2018, Curso Regular, Desenho do Espaço.")
 
 ![](IMG_20180319_142030.jpg "Colégio Santa Cruz, 2018, Curso Regular, Desenho do Espaço.")
-
 
 Segundo semestre de 2017  
 Curso livre de artes para alunos do ensino médio  
@@ -127,7 +120,6 @@ São Paulo
 
 ![](IMG_20171113_141248.jpg "Primeiro semestre de 2018 Curso livre de artes para alunos do ensino médio Retratos São Paulo")
 
-
 Segundo semestre de 2017  
 Curso regular de desenho para primeiro ano do ensino médio  
 Desenho do espaço.  
@@ -143,14 +135,14 @@ São Paulo
 
 ![](IMG_20171106_143921.jpg "Colégio Santa Cruz, 2017, Curso Regular, Modelo-vivo.")
 
-![](/wp-content/uploads/2018/04/IMG_20171106_144704.jpg)
+![](IMG_20171106_144704.jpg)
 ![](IMG_20171106_143954.jpg "Colégio Santa Cruz, 2017, Curso Regular, Modelo-vivo.")
 
 ![](IMG_20171106_143945.jpg "Colégio Santa Cruz, 2017, Curso Regular, Modelo-vivo.")
 
 ![](IMG_20171106_151017.jpg "Colégio Santa Cruz, 2017, Curso Regular, Modelo-vivo.")
 
-![](/wp-content/uploads/2018/04/IMG_20171113_135330.jpg)
+![](IMG_20171113_135330.jpg)
 ![](IMG_20171113_135347.jpg "Colégio Santa Cruz, 2017, Curso Regular, Produção dos alunos.")
 
 ![](IMG_20171113_140156.jpg "Colégio Santa Cruz, 2017, Curso Regular, Produção dos alunos.")
@@ -180,4 +172,3 @@ São Paulo
 ![](IMG_20171113_152708.jpg "Colégio Santa Cruz, 2017, Curso Regular, Produção dos alunos.")
 
 ![](IMG_20171113_155650.jpg "Colégio Santa Cruz, 2017, Curso Regular, Produção dos alunos.")
-

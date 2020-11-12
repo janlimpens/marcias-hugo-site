@@ -6,7 +6,7 @@ guid: http://sobredesenho.limpens.com/trabalhos-artisticos/serie-casa-vazia/
 id: 154416302
 image: /wp-content/uploads/2013/04/Graphias-casa-Vazia-retrabalhada-020baixa.jpg
 layout: page
-title: Série &#8220;Casa Vazia&#8221;
+title: Série "Casa Vazia"
 ---
 
 ![](/wp-content/uploads/2013/04/006_pequena.jpg)

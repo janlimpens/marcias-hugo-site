@@ -4,7 +4,7 @@ languageCode = "pt-br"
 theme = "basedoff"
 title = "Sobre desenho"
 defaultcontentlanguage = "pt"
-timeout = "100000"
+timeout = "600000"
 [params]
 customCss = ["lightbox2/css/lightbox.min.css", "css/custom.css"]
 customJs = ["js/jquery.js", "lightbox2/js/lightbox.min.js"]

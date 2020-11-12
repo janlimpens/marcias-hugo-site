@@ -6,7 +6,7 @@ guid: http://sobredesenho.limpens.com/trabalhos-artisticos/serie-portas-de-enrol
 id: 154416288
 image: /wp-content/uploads/2012/07/Vende-se.png.scaled1000.png
 layout: page
-title: Série &#8220;Portas de Enrolar&#8221;
+title: Série "Portas de Enrolar"
 ---
 
 ![](Vende-se.png.scaled1000.png "“Vende-se” Têmpera e punção de alfabeto sobre papel, 30 x 42 cm, 2013 a 2016")
@@ -16,4 +16,3 @@ title: Série &#8220;Portas de Enrolar&#8221;
 ![](Cuidado_cao_feroz.png.scaled1000.png "“Cuidado Cão Feroz” Têmpera e punção de alfabeto sobre papel, 30 x 42 cm, 2013 a 2016")
 
 ![](Aberto_Fechado.png.scaled1000.png "“Aberto / Fechado” Têmpera e punção de alfabeto sobre papel, 30 x 42 cm, 2013 a 2016")
-
