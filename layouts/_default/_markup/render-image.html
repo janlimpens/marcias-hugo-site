@@ -4,15 +4,15 @@
 {{- $galleryId := md5 .Page.Permalink}}
 <figure>
     {{- with $img -}}
-    {{ $fit := .Fit $imagefit }}
-    {{ $max := .Fit $imageMax }}
+    {{- $fit := .Fit $imagefit -}}
+    {{- $max := .Fit $imageMax -}}
     <a href="{{$max.RelPermalink}}" data-lightbox="gallery-{{$galleryId}}">
         <img src="{{ $fit.RelPermalink }}" alt="{{ $.Text }}" title="{{ with $.Title }}{{ . }}{{ end }}" />
     </a>
     {{- else -}}
     <img src="{{ .Destination | safeURL }}" alt="{{ $.Text }}" title="{{ with $.Title }}{{ . }}{{ end }}" />
     {{- end -}}
-    {{ with $.Title }}
+    {{- with $.Title -}}
     <figcaption>{{ . }}</figcaption>
-    {{ end }}
+    {{- end -}}
 </figure>

@@ -54,6 +54,7 @@ ul.pagination li {
 .list-item {
   display: flex;
   margin-bottom: 1em;
+  margin-top: 1em;
 }
 .list-item > div {
   padding-right: 1em;

@@ -2,7 +2,7 @@ baseURL = "/"
 enableInlineShortcodes = true
 languageCode = "pt-br"
 theme = "basedoff"
-title = "Sobre desenho"
+title = "Marcia Cymbalista"
 defaultcontentlanguage = "pt"
 timeout = "600000"
 [params]
@@ -11,7 +11,7 @@ customJs = ["js/jquery.js", "lightbox2/js/lightbox.min.js", "js/main.js"]
 defaultImageFit = "600x600"
 defaultImageMaxFit = "1200x1200"
 thumb-crop = "150x150 smart"
-subtitle = "Marcia Cymbalista"
+subtitle = "Sobre desenho"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]

@@ -1,12 +1,12 @@
 <div class="site-title">
-  <a href="{{ .Site.BaseURL }}">{{ .Site.Title }} {{ if isset .Site.Params "subtitle" }}-
-    {{ .Site.Params.Subtitle }}{{ end }}</a>
+  <a href="{{ .Site.BaseURL }}">{{ .Site.Title }} {{ if isset .Site.Params "subtitle" }}
+    <span class="sub-title">{{ .Site.Params.Subtitle }}</span>{{ end }}</a>
 </div>
 <nav>
   <ul>
     {{ range .Site.Menus.main }}
     <li>
-      <a href="{{ .URL }}">{{ .Name }}</a>
+      XXX<a href="{{ .URL }}">{{ .Name }}</a>
     </li>
     {{ end }}
   </ul>
