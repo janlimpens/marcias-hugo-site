@@ -13,7 +13,7 @@ $(document).ready(function () {
     })
     .remove();
 
-  if ($(window).width > 800) {
+  if ($(window).width() > 800) {
     //only @home
     if (window.location.pathname == "/") {
       var content = $(".content");
